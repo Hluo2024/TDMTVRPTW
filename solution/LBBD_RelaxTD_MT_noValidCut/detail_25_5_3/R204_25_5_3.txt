@@ -1,0 +1,31 @@
+data/solution/LBBD_RelaxTD_MT_noValidCut/detail_25_5_3/R204_25_5_3.txt
+
+Cost:		371.18
+Lower Bound:	371.16
+Status:		Optimal
+Gap (%):		.00
+Cpu Time:		5074.85
+Nodes:		387644
+UserCut:		1
+
+--------------Route 0--------------:
+Trip 0:		[0, 2, 22, 23, 15, 14, 16, 17, 8, 5, 6, 0]
+Loading time:	20.0
+Ready time Domain:	[138.72	153.68]
+Ready time Image:	[468.72	468.72]
+Ready time:	[138.72, 160.72, 178.85, 216.0, 301.0, 320.49, 337.2, 355.58, 414.0, 434.45, 451.95, 468.72]
+
+--------------Route 1--------------:
+Trip 0:		[0, 13, 21, 4, 25, 24, 3, 12, 0]
+Loading time:	14.0
+Ready time Domain:	[579.32	736.66]
+Ready time Image:	[915.32	916.82]
+Ready time:	[579.32, 700.0, 723.55, 742.12, 827.0, 852.0, 876.14, 897.32, 915.32]
+
+--------------Route 2--------------:
+Trip 0:		[0, 18, 7, 19, 11, 10, 20, 9, 1, 0]
+Loading time:	16.0
+Ready time Domain:	[105.82	245.33]
+Ready time Image:	[439.82	439.82]
+Ready time:	[105.82, 129.37, 147.95, 165.4, 216.0, 237.18, 262.99, 410.0, 430.68, 439.82]
+

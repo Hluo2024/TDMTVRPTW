@@ -1,0 +1,19 @@
+Trip 0:	[0, 2, 15, 14, 5, 8, 7, 11, 10, 1, 9, 3, 12, 4, 0]
+[SST of last customer,  SST of last customer (Trip)]:	[677.6799766180922, 468.4200007845109] 
+Total demand:	180
+Total loading time:	26.0
+
+Trip 1:	[0, 6, 13, 0]
+[SST of last customer,  SST of last customer (Trip)]:	[696.5835867684364, 522.5835867684362] 
+Total demand:	26
+Total loading time:	4.0
+
+data/solution/CPLEX/detail_15_11_2/R206_15_11_2.txt
+
+Cost:		248.91
+Lower Bound:	248.91
+Status:		Optimal
+Gap (%):		.00
+Cpu Time:		26.69
+Nodes:		11097
+

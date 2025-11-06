@@ -1,0 +1,24 @@
+data/solution/LBBD_RelaxTD_MT/detail_15_11_2/RC205_15_11_2.txt
+
+Cost:		200.76
+Lower Bound:	200.76
+Status:		Optimal
+Gap (%):		.00
+Cpu Time:		1.60
+Nodes:		1204
+UserCut:		0
+
+--------------Route 0--------------:
+Trip 0:		[0, 2, 6, 7, 8, 5, 3, 1, 4, 0]
+Loading time:	16.0
+Ready time Domain:	[205.88	385.30]
+Ready time Image:	[739.88	739.88]
+Ready time:	[205.88, 234.37, 403.0, 416.6, 432.6, 456.74, 468.46, 481.03, 684.0, 739.88]
+
+--------------Route 1--------------:
+Trip 0:		[0, 12, 14, 15, 11, 9, 10, 13, 0]
+Loading time:	14.0
+Ready time Domain:	[185.56	210.27]
+Ready time Image:	[721.56	721.56]
+Ready time:	[185.56, 219.85, 234.35, 247.85, 261.45, 411.0, 545.0, 693.0, 721.56]
+
